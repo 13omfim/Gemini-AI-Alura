@@ -35,6 +35,6 @@
 * Diferença entre o Gemini e AI Studio;
 * Descrição de imagem com o Google AI Studio.
 
-#### Desafios da aula desta aula:
+#### Desafios aula desta aula:
 ```
 ```
