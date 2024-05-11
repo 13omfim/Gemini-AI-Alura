@@ -36,5 +36,7 @@
 * Descrição de imagem com o Google AI Studio.
 
 #### Desafios aula desta aula:
+<!-- Abaixo, cria uma caixa sobressalente para destacar o texto
 ```
 ```
+Fim -->
