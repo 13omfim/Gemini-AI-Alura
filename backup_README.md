@@ -30,7 +30,8 @@ Aqui
 Gemini
 AI Studio
 Kaggle
-Aula 1 Mergulhando no Gemini, a IA do Google:
+
+## Aula 1 Mergulhando no Gemini, a IA do Google:
 
 🚨 Clique aqui para visualizar o resultado da aula 1.
 
@@ -66,9 +67,9 @@ Imagem da campanha e ícones em assets
 
 ## Gratidão por compartilhar!
 
-
-   Tiago Sant Anna
-    GitHub |  LinkedIn
+Tiago Sant Anna
+  
+[Github](https://github.com/13omfim/) |  LinkedIn
 
 > [!NOTE]
 > Este repositório contém desafios propostos na imersão Gemini AI da plataforma [ALURA](https://www.alura.com.br/)
