@@ -26,19 +26,17 @@
 Até 
 Aqui
 -->
-## 📁 Tecnologias e ferramentas utilizadas no projeto:
-Gemini
-AI Studio
-Kaggle
+## Tecnologias e ferramentas utilizadas no projeto:
+Gemini | Google AIStudio | Python | Kaggle
 
 ## Aula 1 Mergulhando no Gemini, a IA do Google:
 
 🚨 Clique aqui para visualizar o resultado da aula 1.
 
 ## Assuntos abordados:
-Oque é IA?;
+O que é IA?;
 Diferenças entre IA Preditiva x IA Generativa;
-Oque é LLM?;
+O que é LLM?;
 Análise de sentimento;
 Leitura da foto de uma carta com o Gemini;
 Diferenças entre o Gemini e Google AI Studio;
@@ -65,11 +63,11 @@ Desafios da aula desta aula:
 ## 📚 Materiais
 Imagem da campanha e ícones em assets
 
-## Gratidão por compartilhar!
+*Gratidão por compartilhar!*
 
 Tiago Sant Anna
-  
-[Github](https://github.com/13omfim/) |  LinkedIn
+
+[GitHub](https://github.com/13omfim/) |  LinkedIn
 
 > [!NOTE]
 > Este repositório contém desafios propostos na imersão Gemini AI da plataforma [ALURA](https://www.alura.com.br/)
