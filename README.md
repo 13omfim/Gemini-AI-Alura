@@ -23,20 +23,17 @@
 <!-- Inicio do Cabeçalho -->
 # <h1 align="center">Gemini-Ai-Alura<h1>
 <!-- Selecione todo o texto Abaixo "Imersão..." e Segure "ctrl"+ "enter" que cria linha abaixo "Gemini-Ai-Alura" que fica acima -->
-## 📁 Imersão em AI Gemini, Google Studio, fornecida pela Alura em parceria com o Google
+## 👩‍💻 Imersão em AI Gemini, Google Studio fornecida pela Alura em parceria com o Google
 
-<!-- Comentado
-Até
-Aqui
--->
-## Tecnologias e ferramentas utilizadas no projeto:
+
+### 📁 Tecnologias e ferramentas utilizadas no projeto
 Gemini | Google AI Studio | Google Colab | Python | Kaggle
 
-## Aula 1 Mergulhando no Gemini, a IA do Google:
+### 📖 Aula 1 | Mergulhando no Gemini, a IA do Google
 
-🚨 Clique aqui para visualizar o resultado da aula 1.
+📌 Clique aqui para visualizar o resultado da Aula 1.
 
-## Assuntos abordados:
+### 🗄 Assuntos abordados:
 O que é IA?;
 Diferenças entre IA Preditiva x IA Generativa;
 O que é LLM?;
@@ -50,8 +47,8 @@ Desafios da aula desta aula:
 
  - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site.
 
-## Aula 2 Melhores técnicas em Engenharia de Prompt:
-🚨 Clique aqui para visualizar o resultado da aula 2.
+## 📖 Aula 2 | Melhores técnicas em Engenharia de Prompt
+📌 Clique aqui para visualizar o resultado da Aula 2.
 
 Assuntos abordados:
 Aprender as melhores técnicas de como realizar um prompt;
@@ -66,9 +63,9 @@ Desafios da aula desta aula:
 ## 📚 Materiais
 Imagem da campanha e ícones em assets
 
-*Gratidão por compartilhar!*
+#### 🙌Gratidão pelo Aprendizado!
 
-Tiago Sant Anna
+### 🚀 Tiago Sant Anna
 
 [GitHub](https://github.com/13omfim/) |  LinkedIn
 
