@@ -1,6 +1,10 @@
+<!--
 <p align="center">
 <img loading="lazy" src="https://github.com/13omfim/Gemini-AI-Alura/assets/169212815/e1903626-9e4e-472c-9dac-fa1da0d384d6"/>
 </p>
+-->
+
+![google](assets/images/google1.png)
 
 <!-- Abaixo, modelos sem alinhamento
 ![gemini](https://github.com/13omfim/Gemini-AI-Alura/assets/169212815/e1903626-9e4e-472c-9dac-fa1da0d384d6)
@@ -21,13 +25,12 @@
 <!-- Selecione todo o texto Abaixo "Imersão..." e Segure "ctrl"+ "enter" que cria linha abaixo "Gemini-Ai-Alura" que fica acima -->
 ## 📁 Imersão em AI Gemini, Google Studio, fornecida pela Alura em parceria com o Google
 
-
 <!-- Comentado
-Até 
+Até
 Aqui
 -->
 ## Tecnologias e ferramentas utilizadas no projeto:
-Gemini | Google AIStudio | Python | Kaggle
+Gemini | Google AI Studio | Google Colab | Python | Kaggle
 
 ## Aula 1 Mergulhando no Gemini, a IA do Google:
 
