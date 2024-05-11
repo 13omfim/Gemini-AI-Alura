@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Prompt-Script-blue?logo=googlegemini) ![GitHub License](https://img.shields.io/github/license/mashape/apistatus?logo=github) ![GitHub followers](https://img.shields.io/github/followers/13omfim?style=social) ![GitHub language count](https://img.shields.io/github/languages/count/13omfim/Gemini-AI-Alura)
 
 <!-- Inicio do Cabeçalho -->
-# Gemini-Ai-Alura
+# <h1 align="center">Gemini-Ai-Alura<h1>
 <!-- Selecione todo o texto Abaixo "Imersão..." e Segure "ctrl"+ "enter" que cria linha abaixo "Gemini-Ai-Alura" que fica acima -->
 ## 📁 Imersão em AI Gemini, Google Studio, fornecida pela Alura em parceria com o Google
 
