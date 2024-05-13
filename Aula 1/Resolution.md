@@ -66,9 +66,10 @@ Como tenho muita afinidade com Python, gostaria que me auxiliasse em obter as me
 Me responda no idioma português.
 ```
 * Prompt
-[1. Prompt | Geminim AI](https://g.co/gemini/share/520696e11795)
+  
+[Prompt | Geminim AI](https://g.co/gemini/share/520696e11795)
 
-2. Ação: 
+1. Ação: 
 ```
 Analise esse histórico do Google Chrome em anexo e faça uma conclusões de como eu tenho usado o meu tempo, crie um resumo do que eu mais acesso, quantidade de uso e tipo de site;
 ```
