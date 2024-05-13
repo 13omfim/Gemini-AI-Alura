@@ -41,41 +41,15 @@ Fim -->
 ### 📖 Aula 5 | Criando um sistema para busca em documentos usando embeddings e a Gemini API
 #### Assuntos abordados:
 ```
-* Descreva o assunto aqui...
-* Descreva o assunto aqui...
-* ...
-* ...
-* ...
-* ...
-* ...
+- Fazer uma LLM (Large Language Model) para acessar documentos;
+- Criar um embedding pelo Google Colab.
 ```
 #### Desafios desta aula:
-
 ```
- 1. Descreva o desafio aqui...
-
- 2. Descreva o desafio aqui...
+Envio de  projeto para concorrer aos prêmios!
  ```
-
  #### Respostas:
-
-1. Ação:
-```
-Digite a ação ou pergunta aqui...
-```
-* Prompt:
-```
-Cole o resultado obtido do prompt aqui...
-```
-
-2. Ação: 
-```
-Digite a ação ou pergunta aqui...
-```
-* Prompt:
-```
-Cole o resultado obtido do prompt aqui...
-```
+1. Será Divulgado internamente no Discord da Alura!
 
 
   

@@ -41,41 +41,18 @@ Fim -->
 ### 📖 Aula 4 | Criando seu próprio chatbot com a Gemini API no Google Colab
 #### Assuntos abordados:
 ```
-* Descreva o assunto aqui...
-* Descreva o assunto aqui...
-* ...
-* ...
-* ...
-* ...
-* ...
+- Aprender a criar o seu próprio chatbot;
+- Saber como funciona a competição de projetos dessa Imersão.
 ```
 #### Desafios desta aula:
 
 ```
- 1. Descreva o desafio aqui...
-
- 2. Descreva o desafio aqui...
+Envio de  projeto para concorrer aos prêmios!
  ```
 
  #### Respostas:
 
-1. Ação:
-```
-Digite a ação ou pergunta aqui...
-```
-* Prompt:
-```
-Cole o resultado obtido do prompt aqui...
-```
-
-2. Ação: 
-```
-Digite a ação ou pergunta aqui...
-```
-* Prompt:
-```
-Cole o resultado obtido do prompt aqui...
-```
+1. Será Divulgado internamente no Discord da Alura!
 
 
   
