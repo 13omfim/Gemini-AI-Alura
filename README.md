@@ -62,9 +62,8 @@ Gemini | Google AI Studio | Google Colab | Python | Kaggle
  - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site.
 ```
 ## 📖 Aula 2 | Melhores técnicas em Engenharia de Prompt
-```
-📌 Clique aqui para visualizar o resultado da Aula 2.
-```
+📌 [Clique aqui](/Aula%202/Resolution.md) para visualizar o resultado da Aula.
+
 ### 🗄 Assuntos abordados:
 ```
 * Aprender as melhores técnicas de como realizar um prompt;
@@ -78,9 +77,7 @@ Gemini | Google AI Studio | Google Colab | Python | Kaggle
  - Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão.
 ```
 ## 📖 Aula 3 | Explorando os Parametros do Google AI Studio
-```
-📌 Clique aqui para visualizar o resultado da Aula 3.
-```
+📌 [Clique aqui](/Aula%203/Resolution.md) para visualizar o resultado da Aula.
 ### 🗄 Assuntos abordados:
 ```
 - Conhecer os 3 tipos de prompts do Google AI Studio: chat prompts, freeform prompts e structured prompts;
@@ -96,40 +93,32 @@ Gemini | Google AI Studio | Google Colab | Python | Kaggle
 3. Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab.;
 ```
 ## 📖 Aula 4 | Criando seu próprio chatbot com a Gemini API no Google Colab
-```
-📌 Clique aqui para visualizar o resultado da Aula 3.
-```
+📌 [Clique aqui](/Aula%204/Resolution.md) para visualizar o resultado da Aula.
 ### 🗄 Assuntos abordados:
 ```
-* Descreva o assunto aqui.......;
+- Aprender a criar o seu próprio chatbot;
+- Saber como funciona a competição de projetos dessa Imersão.
 
 ```
 #### Desafios da aula desta aula:
 ```
- - Descreva o desafio aqui...;
- - Descreva o desafio aqui...;
+- Participação na Premiação de melhores projetos!
 ```
 ## 📖 Aula 5 | Criando um sistema para busca em documentos usando embeddings e a Gemini API
-```
-📌 Clique aqui para visualizar o resultado da Aula 3.
-```
+📌 [Clique aqui](/Aula%205/Resolution.md) para visualizar o resultado da Aula.
 ### 🗄 Assuntos abordados:
 ```
-* Descreva o assunto aqui...;
+- Fazer uma LLM (Large Language Model) para acessar documentos;
+- Criar um embedding pelo Google Colab.
 
 ```
-#### Desafios da aula desta aula:
+#### Desafios desta aula:
 ```
- - Descreva o desafio aqui...;
- - Descreva o desafio aqui...;
+- Envie seu projeto e concorra aos prêmios da Alura.
 ```
-## ⏳ Resolução dos Desafios das Aulas
-📌 Clique aqui para visualizar o resultado da Aula 3.
-
 ## 📝 Resumo
-```
 Minha busca para me tornar um Especialista em Qualidade de Software me levou a explorar ferramentas inovadoras como o Gemini. Com o objetivo de aprimorar minhas habilidades e conhecimentos, mergulhei nas nuances da versão Pro, desvendando suas funcionalidades e como elas podem impulsionar minha carreira.
-```
+
 ## 📚 Materiais
 ```
 Imagem da campanha, ícones, entre outros, disponivel em assets.
@@ -138,7 +127,7 @@ Imagem da campanha, ícones, entre outros, disponivel em assets.
 
 ### 🚀 Tiago Sant Anna
 
-[GitHub](https://github.com/13omfim/) |  LinkedIn
+[GitHub](https://github.com/13omfim/) |  [LinkedIn](https://www.linkedin.com/in/tiago-bomfim-13b04881/)
 
 > [!NOTE]
 > Este repositório contém desafios propostos na imersão Gemini AI da plataforma [ALURA](https://www.alura.com.br/)
